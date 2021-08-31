@@ -1,5 +1,5 @@
 {
-  "name": "NyanBot",
+  "name": "Bot-of-007",
   "version": "99999.9.9",
   "description": "Termux only",
   "main": "samu.js",
@@ -43,6 +43,6 @@
   "scripts": {
     "start": "node samu.js"
   },
-  "author": "Sam y Perry",
-  "homepage": "https://github.com/Samu330/NyanBot/readme"
+  "editado": "code 007",
+  "homepage": "https://github.com/jhuniorcordova/Bot-of-007/readme"
 }
