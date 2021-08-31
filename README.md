@@ -5,7 +5,7 @@
 <a href="#"><img title="Bot-of-007" src="https://img.shields.io/badge/| 🔥BOT-007🔥 | Edicion de bots-black?colorA=%23ff0000&colorB=%23000000&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/Jhuniorcordova0"><img title="Author" src="https://img.shields.io/badge/editado por-codigo 007-green?colorA=%00ff00style=for-the-badge&logo=github"></a>
+<a href="https://github.com/jhuniorcordova0"><img title="Author" src="https://img.shields.io/badge/editado por-codigo 007-green?colorA=%00ff00style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/MAINTENED-YES-blue?colorA=%23ff0000&colorB=%230000ff&style=for-the-badge"</a>
@@ -20,7 +20,7 @@
   </a>
 
 ```bash
-> git clone https://github.com/Jhuniorcordova/Bot-of-007
+> git clone https://github.com/jhuniorcordova/Bot-of-007
 ```
 
 ## Inicia la Instalacion:
